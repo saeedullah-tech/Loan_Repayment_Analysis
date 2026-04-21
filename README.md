@@ -18,7 +18,8 @@ The dashboard focuses on identifying repayment patterns, risk exposure, and key 
 
 ## 🖼️ Dashboard Preview
 
-!https://github.com/saeedullah-tech/Loan_Repayment_Analysis/blob/f8513f7eab6c5aa0c2c802b7878491fe49390009/Screenshot%20(57).png)
+![Images](https://github.com/saeedullah-tech/Loan_Repayment_Analysis/blob/d85086109cd0936cd90d15782f276cca7ee2d199/Screenshot%20(57).png))
+
 
 ---
 
